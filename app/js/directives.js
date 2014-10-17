@@ -3,5 +3,3 @@
 /* Directives */
 
 var phonecatDirectives = angular.module('phonecatDirectives', []);
-
-

@@ -4,6 +4,11 @@
 
 var phonecatControllers = angular.module('phonecatControllers', []);
 
+phonecatControllers.controller('TabsCtrl',
+    function($scope){
+        $scope.tab = 1;
+    });
+
 phonecatControllers.controller('PhoneListCtrl', ['$scope', 'Phone',
   function($scope, Phone) {
     $scope.phones = Phone.query();

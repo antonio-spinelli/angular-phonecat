@@ -263,6 +263,7 @@ For more information on AngularJS please check out http://angularjs.org/
 [jasmine]: http://pivotal.github.com/jasmine/
 [karma]: http://karma-runner.github.io
 
-## Versione di Antonio Spinelli
-Modifiche effettuate:
-    - Uso di ui-router al posto di angular-route
+## Extended version by Antonio Spinelli
+List of changes:
+    - Step-13: Using ui-router instead of angular-route
+    - Step-14: Using a controller for switch the "active" state of the navigation tabs

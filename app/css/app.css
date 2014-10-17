@@ -1,7 +1,7 @@
 /* app css stylesheet */
 
 body {
-  padding-top: 20px;
+  padding-top: 0px;
 }
 
 
@@ -94,6 +94,10 @@ ul.specs dt {
   font-weight: bold;
 }
 
-h1 {
+h1, h3 {
   border-bottom: 1px solid gray;
+}
+
+.home-container {
+    padding: 0 20px 0 20px;
 }

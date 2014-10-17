@@ -262,3 +262,7 @@ For more information on AngularJS please check out http://angularjs.org/
 [protractor]: https://github.com/angular/protractor
 [jasmine]: http://pivotal.github.com/jasmine/
 [karma]: http://karma-runner.github.io
+
+## Versione di Antonio Spinelli
+Modifiche effettuate:
+    - Uso di ui-router al posto di angular-route
